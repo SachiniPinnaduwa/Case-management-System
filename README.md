@@ -2,7 +2,7 @@
 
 We hope to introduse a case management system for courts. The following project is made for that purpose. We used MySql for this project.
 
-Functionalities
+Functionalities :-
 
 Add case details.
 Add case current location.
