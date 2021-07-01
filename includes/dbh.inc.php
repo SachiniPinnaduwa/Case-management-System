@@ -2,8 +2,8 @@
 
 $serverName ="localhost";
 $dbUserName ="root";
-$dbPassword ="Sachinip2@";
-$dbName ="caseManagementDB";
+$dbPassword ="";
+$dbName ="";
 
 $conn = mysqli_connect($serverName,$dbUserName,$dbPassword,$dbName);
 
