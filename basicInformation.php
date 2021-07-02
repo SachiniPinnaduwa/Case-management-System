@@ -51,7 +51,7 @@
     ?>
   
       
-    <h1>New File page</h1>
+    
     <section class="basicInfo-form">
         <div class="text-center">
           <h3>Basic Information</h3>
