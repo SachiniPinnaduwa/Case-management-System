@@ -14,7 +14,7 @@
       ?>
 
 
-    <h1>New File page</h1>
+    
     <section class="plantiff's-form">
       <div class="text-center">
           <h3>Plantiff's Information</h3>
