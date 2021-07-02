@@ -14,7 +14,7 @@
       ?>
 
 
-    <h1>New File page</h1>
+    
     <section class="witness's-form">
       <div class="text-center">
           <h3>Witness's Information</h3>
