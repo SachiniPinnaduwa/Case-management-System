@@ -14,7 +14,7 @@
       ?>
 
 
-    <h1>New File page</h1>
+    
     <section class="difendent's-form">
       <div class="text-center">
           <h3>Difendent's Information</h3>
